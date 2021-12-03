@@ -48,6 +48,13 @@ color: white;
 line-height: 2em;
 }
 
+summary {
+font-family: verdana;
+text-align: center;
+color: white;
+line-height: 2em;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #fdd9b5;
